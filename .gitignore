@@ -136,3 +136,4 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+raw_data/ski_resort_data - Copy.csv
